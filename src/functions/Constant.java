@@ -6,7 +6,7 @@ package functions;
  * implements Function
  * @author Soumya Dayal
  * username: sd9829
- */
+ **/
 
 public class Constant implements Function {
 
