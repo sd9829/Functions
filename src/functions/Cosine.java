@@ -27,7 +27,7 @@ public class Cosine implements Function {
     }
 
 
-    /**
+    /***
      * calculates and returns the derivative of the function that
      * is passed in, or calculates and returns the derivative of
      * the function with which it is called.
